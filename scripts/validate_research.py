@@ -4,6 +4,7 @@ import base64
 import hashlib
 from html.parser import HTMLParser
 import json
+import os
 from pathlib import Path
 import re
 import struct
@@ -13,6 +14,15 @@ import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
 RESEARCH = ROOT / "docs" / "research"
+
+
+def publication_files():
+    excluded = {".git", "node_modules", "dist", "coverage", ".wrangler", "__pycache__",
+                "test-results", "playwright-report", "raw-captures", "browser-profiles"}
+    for folder, directories, files in os.walk(ROOT):
+        directories[:] = [name for name in directories if name not in excluded]
+        for name in files:
+            yield Path(folder) / name
 
 
 def checked_path(root, relative):
@@ -67,7 +77,7 @@ def validate():
         "docs/research-validation.md",
     ]:
         checked_path(ROOT, relative)
-    checks.append("Required research documents present; no product/deployment stage claimed")
+    checks.append("Required preserved research documents present")
 
     manifest = json.loads((RESEARCH / "source-manifest.json").read_text())
     for asset in manifest["assets"]:
@@ -104,8 +114,8 @@ def validate():
         json.loads(path.read_text())
     checks.append("All preserved JSON parses")
 
-    for path in ROOT.rglob("*.md"):
-        if ".git" in path.parts:
+    for path in publication_files():
+        if path.suffix != ".md":
             continue
         for link in re.findall(r"!?\[[^\]]*\]\(([^\s)]+)\)", path.read_text()):
             parsed = urlparse(link)
@@ -125,14 +135,14 @@ def validate():
         raise ValueError("PDF reference is invalid or incomplete")
     checks.append("PDF signature and final EOF verified")
 
-    font_files = [p for p in ROOT.rglob("*") if p.suffix in {".otf", ".ttf", ".woff", ".woff2"}]
+    font_files = [p for p in publication_files() if p.suffix in {".otf", ".ttf", ".woff", ".woff2"}]
     if font_files:
         raise ValueError("Font binary redistribution detected")
     checks.append("No font binaries redistributed")
 
     forbidden_paths = ["/" + "home/", "/" + "opt/", "/" + "tmp/"]
     byline = re.compile(r"(?:built|made|written|generated)\s+(?:by|with)\s+(?:ai|assistant|model)\b", re.I)
-    for path in ROOT.rglob("*"):
+    for path in publication_files():
         text_suffixes = {".md", ".json", ".html", ".py", ".css", ".svg"}
         if not path.is_file() or ".git" in path.parts or path.suffix not in text_suffixes:
             continue

@@ -2,7 +2,7 @@
 
 ## Stage gate
 
-This repository is research-only. Read the brand guide, evidence register, product brief, measurement contract and third-party notices before making changes. Do not create production UI, application code, integrations, deployment configuration or a demo until the brand and brief are committed and Ayo supplies scoped implementation context. Documentation specimens are not product screens.
+The research foundation is committed and must remain preserved. Implementation scope is now authorized for the independent synthetic-data workbench. Read the brand guide, evidence register, archived product brief, measurement contract, third-party notices and implementation documentation before making changes. No outreach or video. Free deployment may be attempted only with existing authorized access; no accounts, payments, permission changes or keys may be requested. Documentation specimens are not product screens.
 
 ## Product boundary
 

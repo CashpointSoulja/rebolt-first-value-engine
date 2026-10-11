@@ -7,3 +7,9 @@ __pycache__/
 .DS_Store
 raw-captures/
 browser-profiles/
+dist/
+coverage/
+*.tsbuildinfo
+.wrangler/
+test-results/
+playwright-report/
