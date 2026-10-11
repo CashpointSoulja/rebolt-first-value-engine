@@ -1,0 +1,3685 @@
+{
+  "url": "https://www.rebolt.ai/brand",
+  "title": "Brand \u00b7 Rebolt",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "elements": [
+    {
+      "tag": "HEADER",
+      "selector": "header.group/nav.sticky.top-0.z-50.data-[theme=light]:bg-white/40.data-[theme=light]:backdrop-blur-sm.data-[theme=dark]:bg-black/30.data-[theme=dark]:backdrop-blur-md",
+      "text": "ReboltCareers4BlogTalk to usLogin",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1351,
+        "height": 48,
+        "top": 0,
+        "right": 1351,
+        "bottom": 48,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H1",
+      "selector": "h1.text-foreground.text-4xl.font-semibold.tracking-tighter",
+      "text": "Rebolt Brand",
+      "rect": {
+        "x": 163.5,
+        "y": 144,
+        "width": 201.6796875,
+        "height": 40,
+        "top": 144,
+        "right": 365.1796875,
+        "bottom": 184,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "40px",
+        "letterSpacing": "-1.8px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "201.68px",
+        "height": "40px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.inline-flex.items-center.justify-center.whitespace-nowrap.rounded-md.text-sm.font-medium.transition-all.disabled:pointer-events-none.disabled:opacity-50.[&_svg]:pointer-events-none.[&_svg:not([class*='size-'])]:size-4.shrink-0.[&_svg]:shrink-0.outline-none.focus-visible:border-ring.focus-visible:ring-[3px].aria-invalid:ring-destructive/20.dark:aria-invalid:ring-destructive/40.aria-invalid:border-destructive.ease-in-out.duration-100.active:scale-[98%].bg-primary-blue.text-primary-foreground.dark:text-white.shadow-xs.hover:bg-primary-blue/90.focus-visible:ring-primary-blue/50.dark:focus-visible:ring-primary-blue/40.h-9.px-4.py-2.has-[>svg]:px-3.cursor-pointer.gap-2",
+      "text": "Download all Brand Assets",
+      "rect": {
+        "x": 977.2890625,
+        "y": 146,
+        "width": 210.2109375,
+        "height": 36,
+        "top": 146,
+        "right": 1187.5,
+        "bottom": 182,
+        "left": 977.2890625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "lab(47.3994 21.2091 -81.9327)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "8px 16px",
+        "margin": "0px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "210.211px",
+        "height": "36px",
+        "transition": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.text-2xl.font-semibold.tracking-tight",
+      "text": "Company and Product name",
+      "rect": {
+        "x": 163.5,
+        "y": 248,
+        "width": 1024,
+        "height": 32,
+        "top": 248,
+        "right": 1187.5,
+        "bottom": 280,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "32px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground",
+      "text": "The name of the company is Rebolt. Always capitalize the \"R\" when referring to the company or product. Do not include \".ai\" or \"AI\" in the name. \"Rebolt.ai\" or \"Rebolt AI\" must not",
+      "rect": {
+        "x": 163.5,
+        "y": 292,
+        "width": 1024,
+        "height": 48,
+        "top": 292,
+        "right": 1187.5,
+        "bottom": 340,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.flex.items-center.gap-2",
+      "text": "\u2717 rebolt",
+      "rect": {
+        "x": 163.5,
+        "y": 356,
+        "width": 1024,
+        "height": 24,
+        "top": 356,
+        "right": 1187.5,
+        "bottom": 380,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.flex.items-center.gap-2",
+      "text": "\u2717 rebolt.ai",
+      "rect": {
+        "x": 163.5,
+        "y": 388,
+        "width": 1024,
+        "height": 24,
+        "top": 388,
+        "right": 1187.5,
+        "bottom": 412,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.flex.items-center.gap-2",
+      "text": "\u2717 Rebolt AI",
+      "rect": {
+        "x": 163.5,
+        "y": 420,
+        "width": 1024,
+        "height": 24,
+        "top": 420,
+        "right": 1187.5,
+        "bottom": 444,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.flex.items-center.gap-2",
+      "text": "\u2717 Rebolt.ai",
+      "rect": {
+        "x": 163.5,
+        "y": 452,
+        "width": 1024,
+        "height": 24,
+        "top": 452,
+        "right": 1187.5,
+        "bottom": 476,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-foreground.flex.items-center.gap-2.font-medium",
+      "text": "\u2713 Rebolt",
+      "rect": {
+        "x": 163.5,
+        "y": 484,
+        "width": 1024,
+        "height": 24,
+        "top": 484,
+        "right": 1187.5,
+        "bottom": 508,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.text-2xl.font-semibold.tracking-tight",
+      "text": "Icons",
+      "rect": {
+        "x": 163.5,
+        "y": 572,
+        "width": 1024,
+        "height": 32,
+        "top": 572,
+        "right": 1187.5,
+        "bottom": 604,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "32px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground",
+      "text": "When referring to Rebolt as a company, on social media, or where a \u201cfancy\u201d design is required, it is acceptable to use this stylized icon with an appropriate corner radius.",
+      "rect": {
+        "x": 163.5,
+        "y": 616,
+        "width": 1024,
+        "height": 48,
+        "top": 616,
+        "right": 1187.5,
+        "bottom": 664,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-muted.group.relative.flex.w-full.cursor-pointer.items-center.justify-center.space-y-2.rounded-lg.p-20.transition-opacity.hover:opacity-60",
+      "text": "",
+      "rect": {
+        "x": 163.5,
+        "y": 676,
+        "width": 1024,
+        "height": 274,
+        "top": 676,
+        "right": 1187.5,
+        "bottom": 950,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "80px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "274px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-auto.w-auto.max-w-[150px]",
+      "text": "",
+      "rect": {
+        "x": 623,
+        "y": 756,
+        "width": 105,
+        "height": 106,
+        "top": 756,
+        "right": 728,
+        "bottom": 862,
+        "left": 623
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "150px",
+        "width": "105px",
+        "height": "106px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 171.5,
+        "y": 684,
+        "width": 32,
+        "height": 32,
+        "top": 684,
+        "right": 203.5,
+        "bottom": 716,
+        "left": 171.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "32px",
+        "height": "32px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-muted.group.relative.flex.w-full.cursor-pointer.items-center.justify-center.space-y-2.rounded-lg.p-20.transition-opacity.hover:opacity-60",
+      "text": "",
+      "rect": {
+        "x": 163.5,
+        "y": 966,
+        "width": 1024,
+        "height": 274,
+        "top": 966,
+        "right": 1187.5,
+        "bottom": 1240,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(96.52 -0.0000298023 0.0000119209)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "80px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "274px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-auto.w-auto.max-w-[150px]",
+      "text": "",
+      "rect": {
+        "x": 623,
+        "y": 1046,
+        "width": 105,
+        "height": 106,
+        "top": 1046,
+        "right": 728,
+        "bottom": 1152,
+        "left": 623
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 8px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "150px",
+        "width": "105px",
+        "height": "106px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 171.5,
+        "y": 974,
+        "width": 32,
+        "height": 32,
+        "top": 974,
+        "right": 203.5,
+        "bottom": 1006,
+        "left": 171.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "32px",
+        "height": "32px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.text-2xl.font-semibold.tracking-tight",
+      "text": "Colors",
+      "rect": {
+        "x": 163.5,
+        "y": 1304,
+        "width": 1024,
+        "height": 32,
+        "top": 1304,
+        "right": 1187.5,
+        "bottom": 1336,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "32px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground",
+      "text": "The primary color of the Rebolt brand is #006AFE. This color is used for the Rebolt logo, icon, and wordmark.",
+      "rect": {
+        "x": 163.5,
+        "y": 1348,
+        "width": 1024,
+        "height": 24,
+        "top": 1348,
+        "right": 1187.5,
+        "bottom": 1372,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-foreground.text-sm.font-medium",
+      "text": "Blue",
+      "rect": {
+        "x": 163.5,
+        "y": 1542,
+        "width": 325.328125,
+        "height": 20,
+        "top": 1542,
+        "right": 488.828125,
+        "bottom": 1562,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 4px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.328px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.text-muted-foreground.hover:text-foreground.flex.items-center.gap-1.text-xs.transition-colors",
+      "text": "#006AFE",
+      "rect": {
+        "x": 163.5,
+        "y": 1566,
+        "width": 68.7578125,
+        "height": 16,
+        "top": 1566,
+        "right": 232.2578125,
+        "bottom": 1582,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "4px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "68.7578px",
+        "height": "16px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "selector": "span",
+      "text": "#006AFE",
+      "rect": {
+        "x": 163.5,
+        "y": 1566,
+        "width": 52.7578125,
+        "height": 16,
+        "top": 1566,
+        "right": 216.2578125,
+        "bottom": 1582,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "52.7578px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "svg",
+      "selector": "svg.lucide.lucide-copy.size-3",
+      "text": "",
+      "rect": {
+        "x": 220.2578125,
+        "y": 1568,
+        "width": 12,
+        "height": 12,
+        "top": 1568,
+        "right": 232.2578125,
+        "bottom": 1580,
+        "left": 220.2578125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "12px",
+        "height": "12px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-foreground.text-sm.font-medium",
+      "text": "Pitch Black",
+      "rect": {
+        "x": 512.828125,
+        "y": 1542,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 1542,
+        "right": 838.1640625,
+        "bottom": 1562,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 4px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.text-muted-foreground.hover:text-foreground.flex.items-center.gap-1.text-xs.transition-colors",
+      "text": "#0D0E10",
+      "rect": {
+        "x": 512.828125,
+        "y": 1566,
+        "width": 67.0703125,
+        "height": 16,
+        "top": 1566,
+        "right": 579.8984375,
+        "bottom": 1582,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "4px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "67.0703px",
+        "height": "16px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "selector": "span",
+      "text": "#0D0E10",
+      "rect": {
+        "x": 512.828125,
+        "y": 1566,
+        "width": 51.0703125,
+        "height": 16,
+        "top": 1566,
+        "right": 563.8984375,
+        "bottom": 1582,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "51.0703px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "svg",
+      "selector": "svg.lucide.lucide-copy.size-3",
+      "text": "",
+      "rect": {
+        "x": 567.8984375,
+        "y": 1568,
+        "width": 12,
+        "height": 12,
+        "top": 1568,
+        "right": 579.8984375,
+        "bottom": 1580,
+        "left": 567.8984375
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "12px",
+        "height": "12px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-foreground.text-sm.font-medium",
+      "text": "Pure White",
+      "rect": {
+        "x": 862.1640625,
+        "y": 1542,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 1542,
+        "right": 1187.5,
+        "bottom": 1562,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "500",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 4px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.text-muted-foreground.hover:text-foreground.flex.items-center.gap-1.text-xs.transition-colors",
+      "text": "#FFFFFF",
+      "rect": {
+        "x": 862.1640625,
+        "y": 1566,
+        "width": 66.109375,
+        "height": 16,
+        "top": 1566,
+        "right": 928.2734375,
+        "bottom": 1582,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "4px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "66.1094px",
+        "height": "16px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "selector": "span",
+      "text": "#FFFFFF",
+      "rect": {
+        "x": 862.1640625,
+        "y": 1566,
+        "width": 50.109375,
+        "height": 16,
+        "top": 1566,
+        "right": 912.2734375,
+        "bottom": 1582,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "50.1094px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "svg",
+      "selector": "svg.lucide.lucide-copy.size-3",
+      "text": "",
+      "rect": {
+        "x": 916.2734375,
+        "y": 1568,
+        "width": 12,
+        "height": 12,
+        "top": 1568,
+        "right": 928.2734375,
+        "bottom": 1580,
+        "left": 916.2734375
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "12px",
+        "fontWeight": "400",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "12px",
+        "height": "12px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.text-2xl.font-semibold.tracking-tight",
+      "text": "Logo",
+      "rect": {
+        "x": 163.5,
+        "y": 1646,
+        "width": 1024,
+        "height": 32,
+        "top": 1646,
+        "right": 1187.5,
+        "bottom": 1678,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "32px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground",
+      "text": "The Rebolt logo should be used consistently across all applications. Always maintain proper spacing and contrast.",
+      "rect": {
+        "x": 163.5,
+        "y": 1690,
+        "width": 1024,
+        "height": 24,
+        "top": 1690,
+        "right": 1187.5,
+        "bottom": 1714,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.text-lg.font-medium",
+      "text": "Wordmark",
+      "rect": {
+        "x": 163.5,
+        "y": 1778,
+        "width": 1024,
+        "height": 28,
+        "top": 1778,
+        "right": 1187.5,
+        "bottom": 1806,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-primary-blue.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 163.5,
+        "y": 1818,
+        "width": 325.328125,
+        "height": 180,
+        "top": 1818,
+        "right": 488.828125,
+        "bottom": 1998,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(47.3994 21.2091 -81.9327)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.328px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-auto.w-auto.max-w-[200px]",
+      "text": "",
+      "rect": {
+        "x": 226.1640625,
+        "y": 1885.125,
+        "width": 200,
+        "height": 45.75,
+        "top": 1885.125,
+        "right": 426.1640625,
+        "bottom": 1930.875,
+        "left": 226.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "200px",
+        "width": "200px",
+        "height": "45.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 171.5,
+        "y": 1826,
+        "width": 28,
+        "height": 28,
+        "top": 1826,
+        "right": 199.5,
+        "bottom": 1854,
+        "left": 171.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Logo on blue background",
+      "rect": {
+        "x": 163.5,
+        "y": 2014,
+        "width": 325.328125,
+        "height": 20,
+        "top": 2014,
+        "right": 488.828125,
+        "bottom": 2034,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.328px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-white.border.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 512.828125,
+        "y": 1818,
+        "width": 325.3359375,
+        "height": 180,
+        "top": 1818,
+        "right": 838.1640625,
+        "bottom": 1998,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "1px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-auto.w-auto.max-w-[200px]",
+      "text": "",
+      "rect": {
+        "x": 575.4921875,
+        "y": 1885.125,
+        "width": 200,
+        "height": 45.75,
+        "top": 1885.125,
+        "right": 775.4921875,
+        "bottom": 1930.875,
+        "left": 575.4921875
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "200px",
+        "width": "200px",
+        "height": "45.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 521.828125,
+        "y": 1827,
+        "width": 28,
+        "height": 28,
+        "top": 1827,
+        "right": 549.828125,
+        "bottom": 1855,
+        "left": 521.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Logo on light background",
+      "rect": {
+        "x": 512.828125,
+        "y": 2014,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 2014,
+        "right": 838.1640625,
+        "bottom": 2034,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-foreground.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 862.1640625,
+        "y": 1818,
+        "width": 325.3359375,
+        "height": 180,
+        "top": 1818,
+        "right": 1187.5,
+        "bottom": 1998,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(2.75381 0 0)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-auto.w-auto.max-w-[200px]",
+      "text": "",
+      "rect": {
+        "x": 924.828125,
+        "y": 1885.125,
+        "width": 200,
+        "height": 45.75,
+        "top": 1885.125,
+        "right": 1124.828125,
+        "bottom": 1930.875,
+        "left": 924.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "200px",
+        "width": "200px",
+        "height": "45.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 870.1640625,
+        "y": 1826,
+        "width": 28,
+        "height": 28,
+        "top": 1826,
+        "right": 898.1640625,
+        "bottom": 1854,
+        "left": 870.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Logo on black background",
+      "rect": {
+        "x": 862.1640625,
+        "y": 2014,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 2014,
+        "right": 1187.5,
+        "bottom": 2034,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.text-lg.font-medium",
+      "text": "Icon Only",
+      "rect": {
+        "x": 163.5,
+        "y": 2098,
+        "width": 1024,
+        "height": 28,
+        "top": 2098,
+        "right": 1187.5,
+        "bottom": 2126,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "500",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-primary-blue.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 163.5,
+        "y": 2138,
+        "width": 325.328125,
+        "height": 180,
+        "top": 2138,
+        "right": 488.828125,
+        "bottom": 2318,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(47.3994 21.2091 -81.9327)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.328px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-12.w-12",
+      "text": "",
+      "rect": {
+        "x": 302.1640625,
+        "y": 2204,
+        "width": 48,
+        "height": 48,
+        "top": 2204,
+        "right": 350.1640625,
+        "bottom": 2252,
+        "left": 302.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "100%",
+        "width": "48px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 171.5,
+        "y": 2146,
+        "width": 28,
+        "height": 28,
+        "top": 2146,
+        "right": 199.5,
+        "bottom": 2174,
+        "left": 171.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Icon on blue",
+      "rect": {
+        "x": 163.5,
+        "y": 2334,
+        "width": 325.328125,
+        "height": 20,
+        "top": 2334,
+        "right": 488.828125,
+        "bottom": 2354,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.328px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-white.border.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 512.828125,
+        "y": 2138,
+        "width": 325.3359375,
+        "height": 180,
+        "top": 2138,
+        "right": 838.1640625,
+        "bottom": 2318,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgb(255, 255, 255)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "1px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-12.w-12",
+      "text": "",
+      "rect": {
+        "x": 651.4921875,
+        "y": 2204,
+        "width": 48,
+        "height": 48,
+        "top": 2204,
+        "right": 699.4921875,
+        "bottom": 2252,
+        "left": 651.4921875
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "100%",
+        "width": "48px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 521.828125,
+        "y": 2147,
+        "width": 28,
+        "height": 28,
+        "top": 2147,
+        "right": 549.828125,
+        "bottom": 2175,
+        "left": 521.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Icon on light",
+      "rect": {
+        "x": 512.828125,
+        "y": 2334,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 2334,
+        "right": 838.1640625,
+        "bottom": 2354,
+        "left": 512.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.bg-foreground.group.relative.flex.h-[180px].w-full.cursor-pointer.items-center.justify-center.rounded-lg.p-8.transition-opacity.hover:opacity-80",
+      "text": "",
+      "rect": {
+        "x": 862.1640625,
+        "y": 2138,
+        "width": 325.3359375,
+        "height": 180,
+        "top": 2138,
+        "right": 1187.5,
+        "bottom": 2318,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "lab(2.75381 0 0)",
+        "backgroundImage": "none",
+        "borderRadius": "10px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "32px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "180px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "IMG",
+      "selector": "img.h-12.w-12",
+      "text": "",
+      "rect": {
+        "x": 1000.828125,
+        "y": 2204,
+        "width": 48,
+        "height": 48,
+        "top": 2204,
+        "right": 1048.828125,
+        "bottom": 2252,
+        "left": 1000.828125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgba(0, 0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "100%",
+        "width": "48px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.top-2.left-2.rounded-md.p-1.5.opacity-0.transition-opacity.group-hover:opacity-100",
+      "text": "",
+      "rect": {
+        "x": 870.1640625,
+        "y": 2146,
+        "width": 28,
+        "height": 28,
+        "top": 2146,
+        "right": 898.1640625,
+        "bottom": 2174,
+        "left": 870.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "8px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "6px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "28px",
+        "height": "28px",
+        "transition": "opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "0"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.text-sm",
+      "text": "Icon on dark",
+      "rect": {
+        "x": 862.1640625,
+        "y": 2334,
+        "width": 325.3359375,
+        "height": 20,
+        "top": 2334,
+        "right": 1187.5,
+        "bottom": 2354,
+        "left": 862.1640625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "14px",
+        "fontWeight": "400",
+        "lineHeight": "20px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "325.336px",
+        "height": "20px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.text-2xl.font-semibold.tracking-tight",
+      "text": "Typography",
+      "rect": {
+        "x": 163.5,
+        "y": 2418,
+        "width": 1024,
+        "height": 32,
+        "top": 2418,
+        "right": 1187.5,
+        "bottom": 2450,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "24px",
+        "fontWeight": "600",
+        "lineHeight": "32px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 12px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "32px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground",
+      "text": "We use Inter as our primary typeface and Geist\u00a0Mono for monospaced text.",
+      "rect": {
+        "x": 163.5,
+        "y": 2462,
+        "width": 1024,
+        "height": 36.5,
+        "top": 2462,
+        "right": 1187.5,
+        "bottom": 2498.5,
+        "left": 163.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1024px",
+        "height": "36.5px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-start.text-[38px].leading-tight.font-medium.tracking-tighter.text-white.md:text-[46px].md:leading-15",
+      "text": "Outcompete with technology",
+      "rect": {
+        "x": 97.4453125,
+        "y": 2722.5,
+        "width": 575.078125,
+        "height": 60,
+        "top": 2722.5,
+        "right": 672.5234375,
+        "bottom": 2782.5,
+        "left": 97.4453125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "46px",
+        "fontWeight": "500",
+        "lineHeight": "60px",
+        "letterSpacing": "-2.3px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "575.078px",
+        "height": "60px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.sr-only",
+      "text": "Site footer",
+      "rect": {
+        "x": 50.5,
+        "y": 2941.5,
+        "width": 1,
+        "height": 1,
+        "top": 2941.5,
+        "right": 51.5,
+        "bottom": 2942.5,
+        "left": 50.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "-1px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1px",
+        "height": "1px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Product",
+      "rect": {
+        "x": 234.3515625,
+        "y": 2942.5,
+        "width": 150.8515625,
+        "height": 24,
+        "top": 2942.5,
+        "right": 385.203125,
+        "bottom": 2966.5,
+        "left": 234.3515625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.852px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Solutions",
+      "rect": {
+        "x": 417.203125,
+        "y": 2942.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 2942.5,
+        "right": 568.0625,
+        "bottom": 2966.5,
+        "left": 417.203125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Company",
+      "rect": {
+        "x": 600.0625,
+        "y": 2942.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 2942.5,
+        "right": 750.921875,
+        "bottom": 2966.5,
+        "left": 600.0625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Legal",
+      "rect": {
+        "x": 782.921875,
+        "y": 2942.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 2942.5,
+        "right": 933.78125,
+        "bottom": 2966.5,
+        "left": 782.921875
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Connect",
+      "rect": {
+        "x": 965.78125,
+        "y": 2942.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 2942.5,
+        "right": 1116.640625,
+        "bottom": 2966.5,
+        "left": 965.78125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    }
+  ],
+  "stylesheets": [
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/3o6kq2dyrw46y.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/28d5qfplt0mpi.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN"
+  ],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "error"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Manrope Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "navLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-corner-down-left text-white group-data-[theme=dark]/nav:text-stone-600 size-4\" aria-hidden=\"true\"><path d=\"M20 4v7a4 4 0 0 1-4 4H4\"></path><path d=\"m9 10-5 5 5 5\"></path></svg>",
+  "headings": [
+    "Rebolt Brand",
+    "Company and Product name",
+    "Icons",
+    "Colors",
+    "Logo",
+    "Wordmark",
+    "Icon Only",
+    "Typography",
+    "Outcompete with technology",
+    "Site footer",
+    "Product",
+    "Solutions",
+    "Company",
+    "Legal",
+    "Connect"
+  ]
+}

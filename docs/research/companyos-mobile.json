@@ -1,0 +1,64 @@
+{
+  "url": "https://www.rebolt.ai/pitch-rebolt",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "scrollWidth": 375,
+  "elements": [
+    {
+      "tag": "HEADER",
+      "selector": "header.group/nav.sticky.top-0.z-50.data-[theme=light]:bg-white/40.data-[theme=light]:backdrop-blur-sm.data-[theme=dark]:bg-black/30.data-[theme=dark]:backdrop-blur-md",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 375,
+        "height": 48,
+        "top": 0,
+        "right": 375,
+        "bottom": 48,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)",
+        "padding": "0px",
+        "gap": "normal",
+        "width": "375px",
+        "height": "48px"
+      }
+    },
+    {
+      "tag": "H1",
+      "selector": "h1.text-foreground.mb-4.text-6xl.font-semibold.tracking-tighter",
+      "rect": {
+        "x": 49,
+        "y": 229.5,
+        "width": 277,
+        "height": 120,
+        "top": 229.5,
+        "right": 326,
+        "bottom": 349.5,
+        "left": 49
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "lineHeight": "60px",
+        "letterSpacing": "-3px",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "padding": "0px",
+        "gap": "normal",
+        "width": "277px",
+        "height": "120px"
+      }
+    }
+  ]
+}

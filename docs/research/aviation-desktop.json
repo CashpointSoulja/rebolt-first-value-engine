@@ -1,0 +1,2519 @@
+{
+  "url": "https://www.rebolt.ai/aviation",
+  "title": "Rebolt | Agentic AI for Aircraft Maintenance",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "elements": [
+    {
+      "tag": "HEADER",
+      "selector": "header.group/nav.sticky.top-0.z-50",
+      "text": "ReboltCareers4Talk to usLogin",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1351,
+        "height": 48,
+        "top": 0,
+        "right": 1351,
+        "bottom": 48,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "selector": "section.dark.relative.-mt-15.w-full.overflow-hidden.bg-[#090b11].pt-15.text-white",
+      "text": "Backed byCombinatorAgentic AI for Aircraft MaintenanceFindings, Work Packages, Task Cards, Materials \u2013 in the blink of AI.Start freeExplore",
+      "rect": {
+        "x": 0,
+        "y": -12,
+        "width": 1351,
+        "height": 960,
+        "top": -12,
+        "right": 1351,
+        "bottom": 948,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgb(9, 11, 17)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "60px 0px 0px",
+        "margin": "-60px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "960px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H1",
+      "selector": "h1.text-5xl.uppercase.leading-[1.1].font-[450].tracking-tighter.text-white.[text-box-edge:cap_alphabetic].[text-box-trim:trim-start].sm:text-6xl.md:text-[5rem]",
+      "text": "Agentic AI for Aircraft Maintenance",
+      "rect": {
+        "x": 80,
+        "y": 429.0390625,
+        "width": 749.1015625,
+        "height": 246.9609375,
+        "top": 429.0390625,
+        "right": 829.1015625,
+        "bottom": 676,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "80px",
+        "fontWeight": "450",
+        "lineHeight": "88px",
+        "letterSpacing": "-4px",
+        "textTransform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "749.102px",
+        "height": "246.961px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.max-w-4xl.uppercase.text-lg.font-medium.leading-7.sm:text-2xl",
+      "text": "Findings, Work Packages, Task Cards, Materials \u2013 in the blink of AI.",
+      "rect": {
+        "x": 80,
+        "y": 700,
+        "width": 749.1015625,
+        "height": 56,
+        "top": 700,
+        "right": 829.1015625,
+        "bottom": 756,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "uppercase",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "896px",
+        "width": "749.102px",
+        "height": "56px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "FORM",
+      "selector": "form.relative.flex.w-full.max-w-md.flex-col.gap-2.lg:flex-1",
+      "text": "Start free",
+      "rect": {
+        "x": 885.1015625,
+        "y": 429.0390625,
+        "width": 385.8984375,
+        "height": 326.9609375,
+        "top": 429.0390625,
+        "right": 1271,
+        "bottom": 756,
+        "left": 885.1015625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "8px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "448px",
+        "width": "385.898px",
+        "height": "326.961px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "INPUT",
+      "selector": "input.min-w-0.rounded-none.border.border-transparent.text-white.placeholder:text-white/60.outline-none.disabled:opacity-60.min-h-12.flex-none.bg-white/10.px-5.py-3.text-base.backdrop-blur-lg.focus-visible:ring-1.focus-visible:ring-[#FFAF00]",
+      "text": "",
+      "rect": {
+        "x": 885.1015625,
+        "y": 429.0390625,
+        "width": 385.8984375,
+        "height": 50,
+        "top": 429.0390625,
+        "right": 1271,
+        "bottom": 479.0390625,
+        "left": 885.1015625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.1)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "1px solid rgba(0, 0, 0, 0)",
+        "padding": "12px 20px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "385.898px",
+        "height": "50px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.inline-flex.cursor-pointer.whitespace-nowrap.font-medium.transition-all.disabled:pointer-events-none.disabled:opacity-50.[&_svg]:pointer-events-none.[&_svg:not([class*='size-'])]:size-4.shrink-0.[&_svg]:shrink-0.outline-none.focus-visible:border-ring.focus-visible:ring-[3px].aria-invalid:ring-destructive/20.dark:aria-invalid:ring-destructive/40.aria-invalid:border-destructive.ease-in-out.duration-100.relative.min-w-[120px].rounded-none.bg-[#FFAF00].text-black.hover:bg-[#FFAF00]/90.focus-visible:ring-[#FFAF00]/50.h-28.w-full.items-start.justify-between.gap-4.bg-[repeating-linear-gradient(135deg,transparent_0px,transparent_9px,#202322_9px,#202322_18px)].bg-[length:100%_40%].bg-bottom.bg-no-repeat.p-4.text-left.text-4xl.font-mediium.leading-none.tracking-tight.shadow-none.active:scale-100.has-[>svg]:px-4.lg:h-auto.lg:min-h-28.lg:flex-1",
+      "text": "Start free",
+      "rect": {
+        "x": 885.1015625,
+        "y": 487.0390625,
+        "width": 385.8984375,
+        "height": 268.9609375,
+        "top": 487.0390625,
+        "right": 1271,
+        "bottom": 756,
+        "left": 885.1015625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(255, 175, 0)",
+        "backgroundImage": "repeating-linear-gradient(135deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 9px, rgb(32, 35, 34) 9px, rgb(32, 35, 34) 18px)",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "16px",
+        "margin": "0px",
+        "gap": "16px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "385.898px",
+        "height": "268.961px",
+        "transition": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SPAN",
+      "selector": "span",
+      "text": "Start free",
+      "rect": {
+        "x": 901.1015625,
+        "y": 503.0390625,
+        "width": 140.046875,
+        "height": 36,
+        "top": 503.0390625,
+        "right": 1041.1484375,
+        "bottom": 539.0390625,
+        "left": 901.1015625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "140.047px",
+        "height": "36px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "svg",
+      "selector": "svg.lucide.lucide-arrow-right.size-10",
+      "text": "",
+      "rect": {
+        "x": 1215,
+        "y": 503.0390625,
+        "width": 40,
+        "height": 40,
+        "top": 503.0390625,
+        "right": 1255,
+        "bottom": 543.0390625,
+        "left": 1215
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "500",
+        "lineHeight": "36px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "40px",
+        "height": "40px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "selector": "section.bg-background.text-[#202322]",
+      "text": "Finding resolutionFrom 2 \u2013 8 hto 15 minTriage, document search and drafting for engineeringHangar capacity+25%More checks per yearScenario planningFrom Daysto 2 hSimulate TAT, bay ",
+      "rect": {
+        "x": 0,
+        "y": 948,
+        "width": 1351,
+        "height": 526.75,
+        "top": 948,
+        "right": 1351,
+        "bottom": 1474.75,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "lab(100 0 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "526.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "ARTICLE",
+      "selector": "article.min-w-0",
+      "text": "Finding resolutionFrom 2 \u2013 8 hto 15 minTriage, document search and drafting for engineering",
+      "rect": {
+        "x": 80,
+        "y": 1044,
+        "width": 461.8828125,
+        "height": 334.75,
+        "top": 1044,
+        "right": 541.8828125,
+        "bottom": 1378.75,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "461.883px",
+        "height": "334.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2#finding-resolution-heading.text-3xl.leading-tight.font-semibold.tracking-tight.sm:text-4xl.lg:min-h-[2lh]",
+      "text": "Finding resolution",
+      "rect": {
+        "x": 80,
+        "y": 1044,
+        "width": 461.8828125,
+        "height": 90,
+        "top": 1044,
+        "right": 541.8828125,
+        "bottom": 1134,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "461.883px",
+        "height": "90px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.flex.flex-col.items-start.gap-2.text-[clamp(3rem,3.5vw,4.5rem)].leading-none.font-medium.tracking-[-0.055em].sm:flex-row.sm:items-center.sm:gap-3",
+      "text": "From 2 \u2013 8 hto 15 min",
+      "rect": {
+        "x": 80,
+        "y": 1187,
+        "width": 461.8828125,
+        "height": 48,
+        "top": 1187,
+        "right": 541.8828125,
+        "bottom": 1235,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "500",
+        "lineHeight": "48px",
+        "letterSpacing": "-2.64px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "12px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "461.883px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-5.text-2xl.leading-snug.font-medium.tracking-tight.sm:text-3xl",
+      "text": "Triage, document search and drafting for engineering",
+      "rect": {
+        "x": 80,
+        "y": 1255,
+        "width": 461.8828125,
+        "height": 82.5,
+        "top": 1255,
+        "right": 541.8828125,
+        "bottom": 1337.5,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "lineHeight": "41.25px",
+        "letterSpacing": "-0.75px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "461.883px",
+        "height": "82.5px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "ARTICLE",
+      "selector": "article.min-w-0",
+      "text": "Hangar capacity+25%More checks per year",
+      "rect": {
+        "x": 573.8828125,
+        "y": 1044,
+        "width": 295.6015625,
+        "height": 334.75,
+        "top": 1044,
+        "right": 869.484375,
+        "bottom": 1378.75,
+        "left": 573.8828125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "295.602px",
+        "height": "334.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2#hangar-capacity-heading.text-3xl.leading-tight.font-semibold.tracking-tight.sm:text-4xl.lg:min-h-[2lh]",
+      "text": "Hangar capacity",
+      "rect": {
+        "x": 573.8828125,
+        "y": 1044,
+        "width": 295.6015625,
+        "height": 90,
+        "top": 1044,
+        "right": 869.484375,
+        "bottom": 1134,
+        "left": 573.8828125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "295.602px",
+        "height": "90px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.flex.flex-col.items-start.gap-2.text-[clamp(3rem,3.5vw,4.5rem)].leading-none.font-medium.tracking-[-0.055em].sm:flex-row.sm:items-center.sm:gap-3",
+      "text": "+25%",
+      "rect": {
+        "x": 573.8828125,
+        "y": 1187,
+        "width": 295.6015625,
+        "height": 48,
+        "top": 1187,
+        "right": 869.484375,
+        "bottom": 1235,
+        "left": 573.8828125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "500",
+        "lineHeight": "48px",
+        "letterSpacing": "-2.64px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "12px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "295.602px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-5.text-2xl.leading-snug.font-medium.tracking-tight.sm:text-3xl",
+      "text": "More checks per year",
+      "rect": {
+        "x": 573.8828125,
+        "y": 1255,
+        "width": 295.6015625,
+        "height": 41.25,
+        "top": 1255,
+        "right": 869.484375,
+        "bottom": 1296.25,
+        "left": 573.8828125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "lineHeight": "41.25px",
+        "letterSpacing": "-0.75px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "295.602px",
+        "height": "41.25px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "ARTICLE",
+      "selector": "article.min-w-0",
+      "text": "Scenario planningFrom Daysto 2 hSimulate TAT, bay mix and cancellations \u2014 impact on EBIT in real time",
+      "rect": {
+        "x": 901.484375,
+        "y": 1044,
+        "width": 369.515625,
+        "height": 334.75,
+        "top": 1044,
+        "right": 1271,
+        "bottom": 1378.75,
+        "left": 901.484375
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "369.516px",
+        "height": "334.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2#business-plan-scenarios-heading.text-3xl.leading-tight.font-semibold.tracking-tight.sm:text-4xl.lg:min-h-[2lh]",
+      "text": "Scenario planning",
+      "rect": {
+        "x": 901.484375,
+        "y": 1044,
+        "width": 369.515625,
+        "height": 90,
+        "top": 1044,
+        "right": 1271,
+        "bottom": 1134,
+        "left": 901.484375
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "600",
+        "lineHeight": "45px",
+        "letterSpacing": "-0.9px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "369.516px",
+        "height": "90px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.flex.flex-col.items-start.gap-2.text-[clamp(3rem,3.5vw,4.5rem)].leading-none.font-medium.tracking-[-0.055em].sm:flex-row.sm:items-center.sm:gap-3",
+      "text": "From Daysto 2 h",
+      "rect": {
+        "x": 901.484375,
+        "y": 1187,
+        "width": 369.515625,
+        "height": 48,
+        "top": 1187,
+        "right": 1271,
+        "bottom": 1235,
+        "left": 901.484375
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "48px",
+        "fontWeight": "500",
+        "lineHeight": "48px",
+        "letterSpacing": "-2.64px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "12px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "369.516px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-5.text-2xl.leading-snug.font-medium.tracking-tight.sm:text-3xl",
+      "text": "Simulate TAT, bay mix and cancellations \u2014 impact on EBIT in real time",
+      "rect": {
+        "x": 901.484375,
+        "y": 1255,
+        "width": 369.515625,
+        "height": 123.75,
+        "top": 1255,
+        "right": 1271,
+        "bottom": 1378.75,
+        "left": 901.484375
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "500",
+        "lineHeight": "41.25px",
+        "letterSpacing": "-0.75px",
+        "textTransform": "none",
+        "color": "rgb(32, 35, 34)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "369.516px",
+        "height": "123.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "SECTION",
+      "selector": "section#solution-coverage.dark.scroll-mt-20.bg-background.text-foreground",
+      "text": "The Agentic OS for managing the whole check.Rebolt connects ERPs, databases, Excel, and third-party systems across planning, engineering, production, materials, and delivery.Integr",
+      "rect": {
+        "x": 0,
+        "y": 1474.75,
+        "width": 1351,
+        "height": 1205.25,
+        "top": 1474.75,
+        "right": 1351,
+        "bottom": 2680,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "lab(2.75381 0 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "1205.25px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2#solution-coverage-heading.mb-6.flex.items-start.gap-3.text-sm.leading-snug.font-medium.tracking-wide.uppercase.sm:text-base",
+      "text": "The Agentic OS for managing the whole check.",
+      "rect": {
+        "x": 80,
+        "y": 1570.75,
+        "width": 1191,
+        "height": 22,
+        "top": 1570.75,
+        "right": 1271,
+        "bottom": 1592.75,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "22px",
+        "letterSpacing": "0.4px",
+        "textTransform": "uppercase",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px 0px 24px",
+        "gap": "12px",
+        "display": "flex",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1191px",
+        "height": "22px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.max-w-[1360px].text-2xl.leading-[1.2].font-medium.tracking-tight.text-pretty.sm:text-3xl.lg:text-[2.5rem]",
+      "text": "Rebolt connects ERPs, databases, Excel, and third-party systems across planning, engineering, production, materials, and delivery.Integrating agentic AI for decision-making and aut",
+      "rect": {
+        "x": 80,
+        "y": 1616.75,
+        "width": 1191,
+        "height": 144,
+        "top": 1616.75,
+        "right": 1271,
+        "bottom": 1760.75,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "40px",
+        "fontWeight": "500",
+        "lineHeight": "48px",
+        "letterSpacing": "-1px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "1360px",
+        "width": "1191px",
+        "height": "144px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Planning",
+      "rect": {
+        "x": 80,
+        "y": 1897.75,
+        "width": 370.328125,
+        "height": 35,
+        "top": 1897.75,
+        "right": 450.328125,
+        "bottom": 1932.75,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.328px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Prepare the check before the aircraft arrives.",
+      "rect": {
+        "x": 80,
+        "y": 1944.75,
+        "width": 370.328125,
+        "height": 24.75,
+        "top": 1944.75,
+        "right": 450.328125,
+        "bottom": 1969.5,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.328px",
+        "height": "24.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Engineering",
+      "rect": {
+        "x": 490.328125,
+        "y": 1897.75,
+        "width": 370.3359375,
+        "height": 35,
+        "top": 1897.75,
+        "right": 860.6640625,
+        "bottom": 1932.75,
+        "left": 490.328125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.336px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Turn findings into actionable technical responses.",
+      "rect": {
+        "x": 490.328125,
+        "y": 1944.75,
+        "width": 370.3359375,
+        "height": 24.75,
+        "top": 1944.75,
+        "right": 860.6640625,
+        "bottom": 1969.5,
+        "left": 490.328125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.336px",
+        "height": "24.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Hangar execution",
+      "rect": {
+        "x": 900.6640625,
+        "y": 1897.75,
+        "width": 370.3359375,
+        "height": 35,
+        "top": 1897.75,
+        "right": 1271,
+        "bottom": 1932.75,
+        "left": 900.6640625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.336px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Coordinate work as the check progresses.",
+      "rect": {
+        "x": 900.6640625,
+        "y": 1944.75,
+        "width": 370.3359375,
+        "height": 24.75,
+        "top": 1944.75,
+        "right": 1271,
+        "bottom": 1969.5,
+        "left": 900.6640625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.336px",
+        "height": "24.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Materials",
+      "rect": {
+        "x": 80,
+        "y": 2188.5,
+        "width": 370.328125,
+        "height": 35,
+        "top": 2188.5,
+        "right": 450.328125,
+        "bottom": 2223.5,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.328px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Connect material availability to the work that needs it.",
+      "rect": {
+        "x": 80,
+        "y": 2235.5,
+        "width": 370.328125,
+        "height": 49.5,
+        "top": 2235.5,
+        "right": 450.328125,
+        "bottom": 2285,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.328px",
+        "height": "49.5px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Operational control",
+      "rect": {
+        "x": 490.328125,
+        "y": 2188.5,
+        "width": 370.3359375,
+        "height": 35,
+        "top": 2188.5,
+        "right": 860.6640625,
+        "bottom": 2223.5,
+        "left": 490.328125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.336px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Understand what is putting the check at risk.",
+      "rect": {
+        "x": 490.328125,
+        "y": 2235.5,
+        "width": 370.3359375,
+        "height": 24.75,
+        "top": 2235.5,
+        "right": 860.6640625,
+        "bottom": 2260.25,
+        "left": 490.328125
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.336px",
+        "height": "24.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.mt-5.text-2xl.leading-tight.font-semibold.tracking-tight.lg:text-[1.75rem]",
+      "text": "Commercial & billing",
+      "rect": {
+        "x": 900.6640625,
+        "y": 2188.5,
+        "width": 370.3359375,
+        "height": 35,
+        "top": 2188.5,
+        "right": 1271,
+        "bottom": 2223.5,
+        "left": 900.6640625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "28px",
+        "fontWeight": "600",
+        "lineHeight": "35px",
+        "letterSpacing": "-0.7px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "20px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "370.336px",
+        "height": "35px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.mb-6.max-w-sm.text-lg.leading-snug.tracking-tight.text-muted-foreground",
+      "text": "Connect work performed to revenue captured.",
+      "rect": {
+        "x": 900.6640625,
+        "y": 2235.5,
+        "width": 370.3359375,
+        "height": 24.75,
+        "top": 2235.5,
+        "right": 1271,
+        "bottom": 2260.25,
+        "left": 900.6640625
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "18px",
+        "fontWeight": "400",
+        "lineHeight": "24.75px",
+        "letterSpacing": "-0.45px",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 24px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "384px",
+        "width": "370.336px",
+        "height": "24.75px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-2xl.leading-tight.font-medium.tracking-tight",
+      "text": "Works with your existing systems",
+      "rect": {
+        "x": 80,
+        "y": 2504,
+        "width": 571.5,
+        "height": 30,
+        "top": 2504,
+        "right": 651.5,
+        "bottom": 2534,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "500",
+        "lineHeight": "30px",
+        "letterSpacing": "-0.6px",
+        "textTransform": "none",
+        "color": "lab(98.26 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "571.5px",
+        "height": "30px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.max-w-md.text-base.leading-relaxed.text-muted-foreground",
+      "text": "No migrations needed, just connect and start working.",
+      "rect": {
+        "x": 80,
+        "y": 2546,
+        "width": 448,
+        "height": 26,
+        "top": 2546,
+        "right": 528,
+        "bottom": 2572,
+        "left": 80
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(66.128 -0.0000298023 0.0000119209)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "12px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "448px",
+        "width": "448px",
+        "height": "26px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-balance.text-start.text-5xl.leading-[1.05].font-medium.tracking-tighter.text-black.[text-box-edge:cap_alphabetic].[text-box-trim:trim-start].md:text-6xl.lg:text-[80px]",
+      "text": "Outcompete with technology",
+      "rect": {
+        "x": 115.5,
+        "y": 2808,
+        "width": 528,
+        "height": 152.9609375,
+        "top": 2808,
+        "right": 643.5,
+        "bottom": 2960.9609375,
+        "left": 115.5
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "80px",
+        "fontWeight": "500",
+        "lineHeight": "84px",
+        "letterSpacing": "-4px",
+        "textTransform": "none",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "528px",
+        "height": "152.961px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.sr-only",
+      "text": "Site footer",
+      "rect": {
+        "x": 31,
+        "y": 3217,
+        "width": 1,
+        "height": 1,
+        "top": 3217,
+        "right": 32,
+        "bottom": 3218,
+        "left": 31
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "-1px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1px",
+        "height": "1px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-xs.font-semibold.uppercase.tracking-normal.text-white/60",
+      "text": "Product",
+      "rect": {
+        "x": 699.5,
+        "y": 3218,
+        "width": 190.5,
+        "height": 16,
+        "top": 3218,
+        "right": 890,
+        "bottom": 3234,
+        "left": 699.5
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "uppercase",
+        "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "190.5px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-xs.font-semibold.uppercase.tracking-normal.text-white/60",
+      "text": "Company",
+      "rect": {
+        "x": 914,
+        "y": 3218,
+        "width": 190.5,
+        "height": 16,
+        "top": 3218,
+        "right": 1104.5,
+        "bottom": 3234,
+        "left": 914
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "uppercase",
+        "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "190.5px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-xs.font-semibold.uppercase.tracking-normal.text-white/60",
+      "text": "Connect",
+      "rect": {
+        "x": 1128.5,
+        "y": 3218,
+        "width": 190.5,
+        "height": 16,
+        "top": 3218,
+        "right": 1319,
+        "bottom": 3234,
+        "left": 1128.5
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "uppercase",
+        "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "190.5px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-xs.font-semibold.uppercase.tracking-normal.text-white/60",
+      "text": "Contact",
+      "rect": {
+        "x": 1128.5,
+        "y": 3486,
+        "width": 190.5,
+        "height": 16,
+        "top": 3486,
+        "right": 1319,
+        "bottom": 3502,
+        "left": 1128.5
+      },
+      "styles": {
+        "fontFamily": "helveticaNow, \"helveticaNow Fallback\", \"Helvetica Neue\", Arial, sans-serif",
+        "fontSize": "12px",
+        "fontWeight": "600",
+        "lineHeight": "16px",
+        "letterSpacing": "normal",
+        "textTransform": "uppercase",
+        "color": "oklab(0.999994 0.0000455677 0.0000200868 / 0.6)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(100 0 0 / 0.1)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "190.5px",
+        "height": "16px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    }
+  ],
+  "stylesheets": [
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/3o6kq2dyrw46y.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/28d5qfplt0mpi.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/0fwa4b9t32sfx.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN"
+  ],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "error"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "300",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "400",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "500",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "700",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "400",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "helveticaNow",
+      "weight": "700",
+      "style": "italic",
+      "status": "unloaded"
+    },
+    {
+      "family": "helveticaNow Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "error"
+    }
+  ],
+  "navLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 256 256\" class=\"size-3.5 text-white group-data-[theme=dark]/nav:text-black\" fill=\"none\" stroke=\"currentColor\" stroke-linecap=\"round\" stroke-linejoin=\"round\" stroke-width=\"36\" aria-hidden=\"true\"><polyline points=\"96 128 48 176 96 224\"></polyline><polyline points=\"192 32 192 176 48 176\"></polyline></svg>",
+  "headings": [
+    "Agentic AI for Aircraft Maintenance",
+    "Finding resolution",
+    "Hangar capacity",
+    "Scenario planning",
+    "The Agentic OS for managing the whole check.",
+    "Planning",
+    "Engineering",
+    "Hangar execution",
+    "Materials",
+    "Operational control",
+    "Commercial & billing",
+    "Works with your existing systems",
+    "Outcompete with technology",
+    "Site footer",
+    "Product",
+    "Company",
+    "Connect",
+    "Contact"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "viewport": {
+    "width": 1568,
+    "height": 993
+  },
+  "renderedHeadingFont": {
+    "fonts": [
+      {
+        "familyName": "Helvetica Now Display Medium (Fontations)",
+        "postScriptName": "HelveticaNowDisplay-Md",
+        "isCustomFont": true,
+        "glyphCount": 33
+      }
+    ]
+  },
+  "layers": [
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.inset-0.bg-radial-[at_70%_20%].from-[#39362f]/50.to-transparent.to-70%",
+      "styles": {
+        "backgroundImage": "radial-gradient(at 70% 20%, lab(22.7483 0.271514 4.9175 / 0.5) 0%, rgba(0, 0, 0, 0) 70%)",
+        "opacity": "1",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "transition": "all",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.inset-0.bg-linear-to-b.from-black/15.via-[#242422]/35.to-[#111110]",
+      "styles": {
+        "backgroundImage": "linear-gradient(oklab(0 0 0 / 0.15) 0%, lab(14.1407 -0.357494 1.34227 / 0.35) 50%, rgb(17, 17, 16) 100%)",
+        "opacity": "1",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "transition": "all",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "DIV",
+      "selector": "div.absolute.inset-x-0.bottom-0.h-1/2.bg-linear-to-t.from-[#111110].to-transparent",
+      "styles": {
+        "backgroundImage": "linear-gradient(to top in oklab, rgb(17, 17, 16) 0%, rgba(0, 0, 0, 0) 100%)",
+        "opacity": "1",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "transition": "all",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none",
+        "display": "block"
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "selector": "button.inline-flex.cursor-pointer.whitespace-nowrap.font-medium.transition-all.disabled:pointer-events-none.disabled:opacity-50.[&_svg]:pointer-events-none.[&_svg:not([class*='size-'])]:size-4.shrink-0.[&_svg]:shrink-0.outline-none.focus-visible:border-ring.focus-visible:ring-[3px].aria-invalid:ring-destructive/20.dark:aria-invalid:ring-destructive/40.aria-invalid:border-destructive.ease-in-out.duration-100.relative.min-w-[120px].rounded-none.bg-[#FFAF00].text-black.hover:bg-[#FFAF00]/90.focus-visible:ring-[#FFAF00]/50.h-28.w-full.items-start.justify-between.gap-4.bg-[repeating-linear-gradient(135deg,transparent_0px,transparent_9px,#202322_9px,#202322_18px)].bg-[length:100%_40%].bg-bottom.bg-no-repeat.p-4.text-left.text-4xl.font-mediium.leading-none.tracking-tight.shadow-none.active:scale-100.has-[>svg]:px-4.lg:h-auto.lg:min-h-28.lg:flex-1",
+      "styles": {
+        "backgroundImage": "repeating-linear-gradient(135deg, rgba(0, 0, 0, 0) 0px, rgba(0, 0, 0, 0) 9px, rgb(32, 35, 34) 9px, rgb(32, 35, 34) 18px)",
+        "opacity": "1",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "transition": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+        "padding": "16px",
+        "gap": "16px",
+        "maxWidth": "none",
+        "display": "flex"
+      }
+    },
+    {
+      "tag": "svg",
+      "selector": "svg.lucide.lucide-arrow-down.size-5.5.animate-subtle-bounce.text-white/70.motion-reduce:animate-none",
+      "styles": {
+        "backgroundImage": "none",
+        "opacity": "0.63164",
+        "animation": "2.4s ease-in-out 0s infinite normal none running subtle-bounce",
+        "transition": "all",
+        "padding": "0px",
+        "gap": "normal",
+        "maxWidth": "none",
+        "display": "block"
+      }
+    }
+  ],
+  "hover": {
+    "background": "rgb(255, 175, 0)",
+    "transition": "0.1s cubic-bezier(0.4, 0, 0.2, 1)",
+    "transform": "none"
+  },
+  "reducedMotionExploreAnimation": "0s ease 0s 1 normal none running none"
+}

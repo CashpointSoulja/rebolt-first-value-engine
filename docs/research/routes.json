@@ -1,0 +1,47 @@
+{
+  "checkedAt": "2026-10-11T09:54:26.847882+00:00",
+  "method": "Public GET, redirects not followed in this check; no authenticated destinations opened",
+  "routes": [
+    {
+      "url": "https://www.rebolt.ai/",
+      "status": 307,
+      "location": "/aviation"
+    },
+    {
+      "url": "https://www.rebolt.ai/aviation",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/brand",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/introducing-rebolt",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/pitch-rebolt",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/pilot",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/sitemap.xml",
+      "status": 200,
+      "location": null
+    },
+    {
+      "url": "https://www.rebolt.ai/company-os",
+      "status": 307,
+      "location": "https://auth.rebolt.ai/user_management/authorize",
+      "note": "Authentication redirect observed. Public client configuration/state query omitted; destination not opened."
+    }
+  ]
+}

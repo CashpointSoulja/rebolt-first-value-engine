@@ -1,0 +1,198 @@
+{
+  "capturedAt": "2026-10-11T09:49:50.732Z",
+  "method": "Public GET requests and rendered DOM at stated viewport; no forms submitted",
+  "assets": [
+    {
+      "url": "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/3o6kq2dyrw46y.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+      "file": "css/3o6kq2dyrw46y.css",
+      "status": 200,
+      "bytes": 6778,
+      "sha256": "831d6f16db27f020c860d05fb8e0cedf5a6fece6c0799bcf9f4c99a040325e59"
+    },
+    {
+      "url": "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/28d5qfplt0mpi.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+      "file": "css/28d5qfplt0mpi.css",
+      "status": 200,
+      "bytes": 237816,
+      "sha256": "cfeec34063cf54190a7d94bc7ba89550d0dc855ffddfe543b705e2d8ec0345f2"
+    },
+    {
+      "url": "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/0fwa4b9t32sfx.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+      "file": "css/0fwa4b9t32sfx.css",
+      "status": 200,
+      "bytes": 2061,
+      "sha256": "8a0b458d431e88c4f468476a542552f992029806b382a743d2f7766fe584854b"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/wordmark-white.svg",
+      "file": "assets/wordmark-white.svg",
+      "status": 200,
+      "bytes": 5755,
+      "sha256": "5ce6a02d1b0c6e1dfd6efdd7a1acad341cbbfc5882011cfd3f3d76aceb4f7d64"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/wordmark-black.svg",
+      "file": "assets/wordmark-black.svg",
+      "status": 200,
+      "bytes": 4900,
+      "sha256": "dc124784fa2234ec26a5a03b3094cb77b9eb3943c2571b16aa12dd1a915f0499"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/logo-icon-white-squared.svg",
+      "file": "assets/logo-icon-white-squared.svg",
+      "status": 200,
+      "bytes": 1301,
+      "sha256": "1ec6ad9ac314cef426e58e6472f10a897131db88b4225da4ce734de54cf2c273"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/logo-icon-black-rounded.svg",
+      "file": "assets/logo-icon-black-rounded.svg",
+      "status": 200,
+      "bytes": 446,
+      "sha256": "02081bb0d7714f52940a9ef574d92f27961dbd7dd37d2b4ddc62ac80be4a9f61"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/rebolt-icon-squared.svg",
+      "file": "assets/rebolt-icon-squared.svg",
+      "status": 200,
+      "bytes": 2372,
+      "sha256": "621aed80b976a8db5ddb2ab32668e7bc2b0d82f6cd7d6b5831087634871180f4"
+    },
+    {
+      "url": "https://www.rebolt.ai/landing/brand/rebolt-logo-rounded.svg",
+      "file": "assets/rebolt-logo-rounded.svg",
+      "status": 200,
+      "bytes": 2380,
+      "sha256": "844088a55f2dc549a2c96dacb17f421fa263500fcf955bdf54dcb7bcc168dc6b"
+    },
+    {
+      "url": "https://www.rebolt.ai/vc-ap-c769c2/_next/static/media/airliner-top-view.2xdbqdk2naeco.svg?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+      "file": "assets/airliner-top-view.2xdbqdk2naeco.svg",
+      "status": 200,
+      "bytes": 96194,
+      "sha256": "635c8785a65fa1d42f9bddd98c8bde24a1d02bd77052da3fb426cb58cbdc45eb"
+    },
+    {
+      "url": "https://www.rebolt.ai/vc-ap-c769c2/_next/static/media/a350-front-view.0g53dmtsy8xy6.svg?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+      "file": "assets/a350-front-view.0g53dmtsy8xy6.svg",
+      "status": 200,
+      "bytes": 201085,
+      "sha256": "4820f3f4fb22aa9ff5f54225b17f9102b98836181312a153aee5fa6958877d23"
+    },
+    {
+      "url": "https://www.rebolt.ai/aviation",
+      "file": "assets/aviation-nav-symbol.svg",
+      "method": "Verbatim header link SVG outerHTML extracted from rendered DOM",
+      "bytes": 357,
+      "sha256": "9534f0c1dd1fec2b3c9568f9dbd3b6d17318bfea5050eaa47ae8e089668a9b1e"
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://www.rebolt.ai/aviation",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "aviation-desktop.json",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "screenshot": "screenshots/aviation-desktop.png",
+      "screenshotSha256": "14758498df02fe476537e29c8bc3d912718e1e6291b67cea9f61d93adc760f88",
+      "screenshotDimensions": [
+        1366,
+        900
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/aviation",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "aviation-mobile.json",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "screenshot": "screenshots/aviation-mobile.png",
+      "screenshotSha256": "7fccac1f6ac93f2ecb78418cb804a8e0596514303eb25a8befd5851fb0d35d64",
+      "screenshotDimensions": [
+        390,
+        844
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/brand",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "brand-desktop.json",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "screenshot": "screenshots/brand-desktop.png",
+      "screenshotSha256": "dd31741f5bbba018b284bf0c430d51bad89339e2313d0a25b009ee2ef221cb35",
+      "screenshotDimensions": [
+        1366,
+        900
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/brand",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "brand-mobile.json",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "screenshot": "screenshots/brand-mobile.png",
+      "screenshotSha256": "e91d26d658807e50465aa18b07146db94b3a52096d10aa9906606dae7da6eee6",
+      "screenshotDimensions": [
+        390,
+        844
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/pitch-rebolt",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "companyos-desktop.json",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "screenshot": "screenshots/companyos-desktop.png",
+      "screenshotSha256": "92f0f5ad9f2431ef1ccf5d052478a2805dc87895e540a8aa063745a344eadc3e",
+      "screenshotDimensions": [
+        1366,
+        900
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/pitch-rebolt",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "evidence": "companyos-mobile.json",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "screenshot": "screenshots/companyos-mobile.png",
+      "screenshotSha256": "01cef40066eea0b1f25205e4e591ec66717ec0e0291136e046f9e8ba405c45d3",
+      "screenshotDimensions": [
+        390,
+        844
+      ]
+    },
+    {
+      "url": "https://www.rebolt.ai/aviation",
+      "capturedAt": "2026-10-11T09:49:50.732Z",
+      "viewport": {
+        "width": 1366,
+        "height": 900
+      },
+      "scrollY": 900,
+      "screenshot": "screenshots/aviation-sections-desktop.png",
+      "screenshotSha256": "6964ce82dddd7114700395735e822a6e87ecc3f2017f5591c728aea460d9d42d",
+      "screenshotDimensions": [
+        1366,
+        900
+      ]
+    }
+  ],
+  "note": "companyos-named evidence files capture the official generic pitch article, not a separate CompanyOS homepage. Aviation detail font/media inspection used its own recorded viewport."
+}

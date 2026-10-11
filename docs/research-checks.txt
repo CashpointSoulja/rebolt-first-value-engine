@@ -1,0 +1,62 @@
+Research checks — 11 October 2026 UTC
+No application tests or deployment checks run.
+
+Built docs/brand-visual-guide.html: 1,264,327 bytes
+test_evidence_path_cannot_escape_root (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_accepts_static_labeled_image (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_missing_label (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_remote_image (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_script_and_form (test_research_validation.ResearchIntegrityTests) ... ok
+test_missing_evidence_rejected (test_research_validation.ResearchIntegrityTests) ... ok
+test_non_png_rejected (test_research_validation.ResearchIntegrityTests) ... ok
+test_png_dimension_header (test_research_validation.ResearchIntegrityTests) ... ok
+test_sha256_accepts_exact_bytes (test_research_validation.ResearchIntegrityTests) ... ok
+test_sha256_rejects_modified_bytes (test_research_validation.ResearchIntegrityTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.001s
+
+OK
+
+PASS: flake8 scripts --max-line-length=120
+PASS: Python documentation scripts compile
+PASS: Required research documents present; no product/deployment stage claimed
+PASS: 12 official assets: bytes, hashes and SVG roots verified
+PASS: 7 screenshots: source, viewport, dimensions and hashes verified
+PASS: All preserved JSON parses
+PASS: All local Markdown document/image links resolve
+PASS: Guide: 4 static sheets, 10 embedded labeled images
+PASS: PDF signature and final EOF verified
+PASS: No font binaries redistributed
+PASS: Text publication hygiene: no local-machine paths or prohibited bylines
+Research validation passed: 9 checks. No application tests run.
+
+PASS: Publication audit (text, PNG metadata, PDF metadata/decompressed streams)
+PASS: Four PDF pages; no print footer/content overlap
+PASS: Reference rendered at desktop and 390px mobile, without horizontal overflow
+PASS: git diff --check --cached
+test_evidence_path_cannot_escape_root (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_accepts_static_labeled_image (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_missing_label (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_remote_image (test_research_validation.ResearchIntegrityTests) ... ok
+test_guide_rejects_script_and_form (test_research_validation.ResearchIntegrityTests) ... ok
+test_missing_evidence_rejected (test_research_validation.ResearchIntegrityTests) ... ok
+test_non_png_rejected (test_research_validation.ResearchIntegrityTests) ... ok
+test_png_dimension_header (test_research_validation.ResearchIntegrityTests) ... ok
+test_sha256_accepts_exact_bytes (test_research_validation.ResearchIntegrityTests) ... ok
+test_sha256_rejects_modified_bytes (test_research_validation.ResearchIntegrityTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.002s
+
+OK
+PASS: Required research documents present; no product/deployment stage claimed
+PASS: 12 official assets: bytes, hashes and SVG roots verified
+PASS: 7 screenshots: source, viewport, dimensions and hashes verified
+PASS: All preserved JSON parses
+PASS: All local Markdown document/image links resolve
+PASS: Guide: 4 static sheets, 10 embedded labeled images
+PASS: PDF signature and final EOF verified
+PASS: No font binaries redistributed
+PASS: Text publication hygiene: no local-machine paths or prohibited bylines
+Research validation passed: 9 checks. No application tests run.

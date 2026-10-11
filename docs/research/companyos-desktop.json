@@ -1,0 +1,2210 @@
+{
+  "url": "https://www.rebolt.ai/pitch-rebolt",
+  "title": "Pitch Rebolt \u00b7 Rebolt \u00b7 Rebolt",
+  "viewport": {
+    "width": 1366,
+    "height": 900
+  },
+  "elements": [
+    {
+      "tag": "HEADER",
+      "selector": "header.group/nav.sticky.top-0.z-50.data-[theme=light]:bg-white/40.data-[theme=light]:backdrop-blur-sm.data-[theme=dark]:bg-black/30.data-[theme=dark]:backdrop-blur-md",
+      "text": "ReboltCareers4BlogTalk to usLogin",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1351,
+        "height": 48,
+        "top": 0,
+        "right": 1351,
+        "bottom": 48,
+        "left": 0
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "oklab(0.999994 0.0000455678 0.0000200868 / 0.4)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1351px",
+        "height": "48px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H1",
+      "selector": "h1.text-foreground.mb-4.text-6xl.font-semibold.tracking-tighter",
+      "text": "Pitch Rebolt",
+      "rect": {
+        "x": 276.5,
+        "y": 229.5,
+        "width": 798,
+        "height": 60,
+        "top": 229.5,
+        "right": 1074.5,
+        "bottom": 289.5,
+        "left": 276.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "60px",
+        "fontWeight": "600",
+        "lineHeight": "60px",
+        "letterSpacing": "-3px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "798px",
+        "height": "60px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.text-muted-foreground.mb-16.text-xl",
+      "text": "You see how Rebolt can run one of your critical operations. Here's how to help everyone on the team see it too",
+      "rect": {
+        "x": 276.5,
+        "y": 305.5,
+        "width": 798,
+        "height": 56,
+        "top": 305.5,
+        "right": 1074.5,
+        "bottom": 361.5,
+        "left": 276.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(48.496 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 64px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "798px",
+        "height": "56px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.sticky.top-8.text-lg.font-semibold",
+      "text": "The Value",
+      "rect": {
+        "x": 276.5,
+        "y": 605.5,
+        "width": 234,
+        "height": 28,
+        "top": 605.5,
+        "right": 510.5,
+        "bottom": 633.5,
+        "left": 276.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "234px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "What is Rebolt?",
+      "rect": {
+        "x": 558.5,
+        "y": 605.5,
+        "width": 516,
+        "height": 28,
+        "top": 605.5,
+        "right": 1074.5,
+        "bottom": 633.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.leading-relaxed.text-gray-700",
+      "text": "Rebolt gives your company a governed operational software layer without a multi-year transformation program. It captures how a process actually works\u2014the data, rules, permissions, ",
+      "rect": {
+        "x": 558.5,
+        "y": 649.5,
+        "width": 516,
+        "height": 130,
+        "top": 649.5,
+        "right": 1074.5,
+        "bottom": 779.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "130px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "Why would we want this?",
+      "rect": {
+        "x": 558.5,
+        "y": 827.5,
+        "width": 516,
+        "height": 28,
+        "top": 827.5,
+        "right": 1074.5,
+        "bottom": 855.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Your critical operations cross ERP, CRM, spreadsheets, email, and people's heads. Today that gap is closed by manual handoffs and duplicate entry\u2014which slows cycle time, creates ex",
+      "rect": {
+        "x": 558.5,
+        "y": 871.5,
+        "width": 516,
+        "height": 104,
+        "top": 871.5,
+        "right": 1074.5,
+        "bottom": 975.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "104px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "The usual options don't close it:",
+      "rect": {
+        "x": 558.5,
+        "y": 991.5,
+        "width": 516,
+        "height": 26,
+        "top": 991.5,
+        "right": 1074.5,
+        "bottom": 1017.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "26px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "Who owns it?",
+      "rect": {
+        "x": 558.5,
+        "y": 1175.5,
+        "width": 516,
+        "height": 28,
+        "top": 1175.5,
+        "right": 1074.5,
+        "bottom": 1203.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Owned by operations. Governed by IT. Executed by software. Operations teams evolve their processes directly, while IT keeps control of permissions, data access, testing, releases, ",
+      "rect": {
+        "x": 558.5,
+        "y": 1219.5,
+        "width": 516,
+        "height": 104,
+        "top": 1219.5,
+        "right": 1074.5,
+        "bottom": 1323.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "104px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.sticky.top-8.text-lg.font-semibold",
+      "text": "Getting Started",
+      "rect": {
+        "x": 276.5,
+        "y": 1403.5,
+        "width": 234,
+        "height": 28,
+        "top": 1403.5,
+        "right": 510.5,
+        "bottom": 1431.5,
+        "left": 276.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "234px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "We don't know where to start",
+      "rect": {
+        "x": 558.5,
+        "y": 1403.5,
+        "width": 516,
+        "height": 28,
+        "top": 1403.5,
+        "right": 1074.5,
+        "bottom": 1431.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Think about the task you or your team dread doing every week.",
+      "rect": {
+        "x": 558.5,
+        "y": 1447.5,
+        "width": 516,
+        "height": 26,
+        "top": 1447.5,
+        "right": 1074.5,
+        "bottom": 1473.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "26px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "We begin with a workflow that's spreadsheet-heavy, touches several departments or approvals, relies on manual work, or uses multiple solutions stitched together.",
+      "rect": {
+        "x": 558.5,
+        "y": 1489.5,
+        "width": 516,
+        "height": 78,
+        "top": 1489.5,
+        "right": 1074.5,
+        "bottom": 1567.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "78px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "What are the steps to get started?",
+      "rect": {
+        "x": 558.5,
+        "y": 1615.5,
+        "width": 516,
+        "height": 28,
+        "top": 1615.5,
+        "right": 1074.5,
+        "bottom": 1643.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "Examples of operations Rebolt has run, by department",
+      "rect": {
+        "x": 558.5,
+        "y": 1925.5,
+        "width": 516,
+        "height": 28,
+        "top": 1925.5,
+        "right": 1074.5,
+        "bottom": 1953.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-foreground.sticky.top-8.text-lg.font-semibold",
+      "text": "Common Concerns",
+      "rect": {
+        "x": 276.5,
+        "y": 3029.5,
+        "width": 234,
+        "height": 28,
+        "top": 3029.5,
+        "right": 510.5,
+        "bottom": 3057.5,
+        "left": 276.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "234px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "We don't have time right now",
+      "rect": {
+        "x": 558.5,
+        "y": 3029.5,
+        "width": 516,
+        "height": 28,
+        "top": 3029.5,
+        "right": 1074.5,
+        "bottom": 3057.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "You might feel you don't have the time, but that's exactly why you need this.",
+      "rect": {
+        "x": 558.5,
+        "y": 3073.5,
+        "width": 516,
+        "height": 52,
+        "top": 3073.5,
+        "right": 1074.5,
+        "bottom": 3125.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "The truth is, your team is already losing time every day to manual, repetitive tasks that shouldn't exist.",
+      "rect": {
+        "x": 558.5,
+        "y": 3141.5,
+        "width": 516,
+        "height": 52,
+        "top": 3141.5,
+        "right": 1074.5,
+        "bottom": 3193.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Every delay, every follow-up, every small thing that \"just takes a few minutes\" adds up to hours, days, and even weeks of lost productivity.",
+      "rect": {
+        "x": 558.5,
+        "y": 3209.5,
+        "width": 516,
+        "height": 78,
+        "top": 3209.5,
+        "right": 1074.5,
+        "bottom": 3287.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "78px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.font-medium.text-gray-900",
+      "text": "When you automate, you don't find more time: you create it.",
+      "rect": {
+        "x": 583.5,
+        "y": 3328.5,
+        "width": 466,
+        "height": 26,
+        "top": 3328.5,
+        "right": 1049.5,
+        "bottom": 3354.5,
+        "left": 583.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "466px",
+        "height": "26px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-2",
+      "text": "What takes hours today can run on its own tomorrow. What slows you down now becomes instant.",
+      "rect": {
+        "x": 583.5,
+        "y": 3362.5,
+        "width": 466,
+        "height": 52,
+        "top": 3362.5,
+        "right": 1049.5,
+        "bottom": 3414.5,
+        "left": 583.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "8px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "466px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "The companies that move fastest aren't the ones with more time. They're the ones that stop wasting it. You don't need extra time to start. You start and you'll get time.",
+      "rect": {
+        "x": 558.5,
+        "y": 3455.5,
+        "width": 516,
+        "height": 78,
+        "top": 3455.5,
+        "right": 1074.5,
+        "bottom": 3533.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "78px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.italic",
+      "text": "When piloting, Rebolt team will setup everything that's needed for the team to start using the tools.",
+      "rect": {
+        "x": 558.5,
+        "y": 3549.5,
+        "width": 516,
+        "height": 52,
+        "top": 3549.5,
+        "right": 1074.5,
+        "bottom": 3601.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-foreground.mb-4.text-lg.font-semibold",
+      "text": "This is not the priority. Our current processes \"work fine\"",
+      "rect": {
+        "x": 558.5,
+        "y": 3649.5,
+        "width": 516,
+        "height": 28,
+        "top": 3649.5,
+        "right": 1074.5,
+        "bottom": 3677.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "18px",
+        "fontWeight": "600",
+        "lineHeight": "28px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "28px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Your team may think their current workflow \"works fine\", the reality is that it's slow, repetitive and bloated. If you dig into it, they go back and forth from Excel, emails, getti",
+      "rect": {
+        "x": 558.5,
+        "y": 3693.5,
+        "width": 516,
+        "height": 130,
+        "top": 3693.5,
+        "right": 1074.5,
+        "bottom": 3823.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "130px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.font-medium.text-gray-900",
+      "text": "If one replies in 30 seconds what usually takes a day gets done in hours. What takes hours gets done now. What is automated is done x100 times a day what took weeks to do only once",
+      "rect": {
+        "x": 583.5,
+        "y": 3864.5,
+        "width": 466,
+        "height": 104,
+        "top": 3864.5,
+        "right": 1049.5,
+        "bottom": 3968.5,
+        "left": 583.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "466px",
+        "height": "104px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.mt-3.font-semibold.text-gray-900",
+      "text": "Speed and automation compound.",
+      "rect": {
+        "x": 583.5,
+        "y": 3980.5,
+        "width": 466,
+        "height": 26,
+        "top": 3980.5,
+        "right": 1049.5,
+        "bottom": 4006.5,
+        "left": 583.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "600",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(8.11897 0.811279 -12.254)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "12px 0px 0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "466px",
+        "height": "26px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "You will likely uncover deep inefficiencies and processes that might even be completely automated.",
+      "rect": {
+        "x": 558.5,
+        "y": 4047.5,
+        "width": 516,
+        "height": 52,
+        "top": 4047.5,
+        "right": 1074.5,
+        "bottom": 4099.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p",
+      "text": "Top companies already leverage AI to automate every part of the company possible, driving up to x10 improvements in productivity.",
+      "rect": {
+        "x": 558.5,
+        "y": 4115.5,
+        "width": 516,
+        "height": 52,
+        "top": 4115.5,
+        "right": 1074.5,
+        "bottom": 4167.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px 0px 16px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "P",
+      "selector": "p.font-medium",
+      "text": "Integrating AI into your company might not be the direct priority, but evolving your way of working to surpass your competitors is.",
+      "rect": {
+        "x": 558.5,
+        "y": 4183.5,
+        "width": 516,
+        "height": 52,
+        "top": 4183.5,
+        "right": 1074.5,
+        "bottom": 4235.5,
+        "left": 558.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "26px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(27.1134 -0.956401 -12.3224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "516px",
+        "height": "52px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.text-start.text-[38px].leading-tight.font-medium.tracking-tighter.text-white.md:text-[46px].md:leading-15",
+      "text": "Outcompete with technology",
+      "rect": {
+        "x": 97.4453125,
+        "y": 4516.5,
+        "width": 575.078125,
+        "height": 60,
+        "top": 4516.5,
+        "right": 672.5234375,
+        "bottom": 4576.5,
+        "left": 97.4453125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "46px",
+        "fontWeight": "500",
+        "lineHeight": "60px",
+        "letterSpacing": "-2.3px",
+        "textTransform": "none",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "575.078px",
+        "height": "60px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H2",
+      "selector": "h2.sr-only",
+      "text": "Site footer",
+      "rect": {
+        "x": 50.5,
+        "y": 4735.5,
+        "width": 1,
+        "height": 1,
+        "top": 4735.5,
+        "right": 51.5,
+        "bottom": 4736.5,
+        "left": 50.5
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "letterSpacing": "normal",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "-1px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "1px",
+        "height": "1px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Product",
+      "rect": {
+        "x": 234.3515625,
+        "y": 4736.5,
+        "width": 150.8515625,
+        "height": 24,
+        "top": 4736.5,
+        "right": 385.203125,
+        "bottom": 4760.5,
+        "left": 234.3515625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.852px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Solutions",
+      "rect": {
+        "x": 417.203125,
+        "y": 4736.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 4736.5,
+        "right": 568.0625,
+        "bottom": 4760.5,
+        "left": 417.203125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Company",
+      "rect": {
+        "x": 600.0625,
+        "y": 4736.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 4736.5,
+        "right": 750.921875,
+        "bottom": 4760.5,
+        "left": 600.0625
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Legal",
+      "rect": {
+        "x": 782.921875,
+        "y": 4736.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 4736.5,
+        "right": 933.78125,
+        "bottom": 4760.5,
+        "left": 782.921875
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    },
+    {
+      "tag": "H3",
+      "selector": "h3.text-base.font-medium.tracking-tight",
+      "text": "Connect",
+      "rect": {
+        "x": 965.78125,
+        "y": 4736.5,
+        "width": 150.859375,
+        "height": 24,
+        "top": 4736.5,
+        "right": 1116.640625,
+        "bottom": 4760.5,
+        "left": 965.78125
+      },
+      "styles": {
+        "fontFamily": "Inter, \"Inter Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "letterSpacing": "-0.4px",
+        "textTransform": "none",
+        "color": "lab(2.75381 0 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "backgroundImage": "none",
+        "borderRadius": "0px",
+        "border": "0px solid lab(90.952 0 -0.0000119209)",
+        "padding": "0px",
+        "margin": "0px",
+        "gap": "normal",
+        "display": "block",
+        "gridTemplateColumns": "none",
+        "maxWidth": "none",
+        "width": "150.859px",
+        "height": "24px",
+        "transition": "all",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "opacity": "1"
+      },
+      "before": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      },
+      "after": {
+        "content": "none",
+        "backgroundImage": "none",
+        "animation": "none 0s ease 0s 1 normal none running",
+        "height": "auto"
+      }
+    }
+  ],
+  "stylesheets": [
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/3o6kq2dyrw46y.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN",
+    "https://www.rebolt.ai/vc-ap-c769c2/_next/static/chunks/28d5qfplt0mpi.css?dpl=dpl_2tXkhKRRwmSCheJQcjuhYdPUtusN"
+  ],
+  "fonts": [
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Inter",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Inter Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "error"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Manrope",
+      "weight": "200 800",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Manrope Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "unloaded"
+    },
+    {
+      "family": "Geist Mono",
+      "weight": "100 900",
+      "style": "normal",
+      "status": "loaded"
+    },
+    {
+      "family": "Geist Mono Fallback",
+      "weight": "normal",
+      "style": "normal",
+      "status": "unloaded"
+    }
+  ],
+  "navLogo": "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"24\" height=\"24\" viewBox=\"0 0 24 24\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2.4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" class=\"lucide lucide-corner-down-left text-white group-data-[theme=dark]/nav:text-stone-600 size-4\" aria-hidden=\"true\"><path d=\"M20 4v7a4 4 0 0 1-4 4H4\"></path><path d=\"m9 10-5 5 5 5\"></path></svg>",
+  "headings": [
+    "Pitch Rebolt",
+    "The Value",
+    "What is Rebolt?",
+    "Why would we want this?",
+    "Who owns it?",
+    "Getting Started",
+    "We don't know where to start",
+    "What are the steps to get started?",
+    "Examples of operations Rebolt has run, by department",
+    "Common Concerns",
+    "We don't have time right now",
+    "This is not the priority. Our current processes \"work fine\"",
+    "Outcompete with technology",
+    "Site footer",
+    "Product",
+    "Solutions",
+    "Company",
+    "Legal",
+    "Connect"
+  ]
+}
